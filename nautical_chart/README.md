@@ -1,2 +1,2 @@
 The electronic nautical chart(ENC, Chart: US3CA14M) is downloaded from [NOAA](https://charts.noaa.gov/InteractiveCatalog/nrnc.shtml). <br>
-To generate the pixel map and map information, please execute the notebook [code/ENC_process.ipynb](https://github.com/chuanhui-hu/LongRange-RiskAware-Astar/blob/main/code/ENC_process.ipynb)
+To generate the pixel map and map information, please execute the notebook [code/ENC_process.ipynb](https://github.com/chuanhui-hu/LongRange-RiskAware-Astar/blob/main/code/ENC_process.ipynb). The ENC is processed by the [GDAL](https://pypi.org/project/GDAL/) library.
