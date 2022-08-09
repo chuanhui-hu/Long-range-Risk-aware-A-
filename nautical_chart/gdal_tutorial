@@ -1,0 +1,6 @@
+# installation
+pip install GDAL==3.0.2
+the version should match with the libgdal-dev, check by: apt list libgdal-dev
+
+# tutorials
+https://www.gis.usu.edu/~chrisg/python/2009/
