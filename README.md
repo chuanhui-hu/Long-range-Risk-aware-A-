@@ -1,2 +1,2 @@
-# Long-range-Risk-aware-A-
-LONG-RANGE RISK-AWARE PATH PLANNING FOR AUTONOMOUS SHIPS IN COMPLEX  AND DYNAMIC ENVIRONMENTS
+# Long-range-Risk-aware-A*
+Algorithm in ----
